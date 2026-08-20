@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Jason M
 - 👀 I’m interested in ...Windows Internals, Red Team Stuff, AD
 - 🌱 I’m currently learning ...allTheThings
-- 💞️ I’m looking to collaborate on ...How to create my first project??
 - 📫 How to reach me ...@blogginzs
 
 <!---

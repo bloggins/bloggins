@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jason M
 - 👀 I’m interested in ...Windows Internals, Red Team Stuff, AD
 - 🌱 I’m currently learning ...allTheThings
-- 📫 How to reach me ...@blogginzs
+- 📫 How to reach me ...bloggins.jason@proton.me
 
 <!---
 bloggins/bloggins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
